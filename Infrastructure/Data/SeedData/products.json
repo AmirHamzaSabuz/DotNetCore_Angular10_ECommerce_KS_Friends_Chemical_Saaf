@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Saaf Liquid Detergent 500 ml",
+    "Description": "Best Liquid Detergent",
+    "Price": 65,
+    "PictureUrl": "images/products/LD-Saaf.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Tide Liquid Detergent 1 L",
+    "Description": "American Liquid Detergent",
+    "Price": 300,
+    "PictureUrl": "images/products/LD-Tide.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Ray Liquid Detergent 1 L",
+    "Description": "PRAN-RFL launched this product",
+    "Price": 300,
+    "PictureUrl": "images/products/LD-Ray.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Surf Excel Liquid Detergent 1 L",
+    "Description": "Very Good Quality Liquid Detergent",
+    "Price": 300,
+    "PictureUrl": "images/products/LD-SurfExcel.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Rin Liquid Detergent 1 L",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 300,
+    "PictureUrl": "images/products/LD-Rin.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Jet Liquid Detergent 1 L",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 350,
+    "PictureUrl": "images/products/LD-Jet.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Harpic Toilet Cleaner",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 130,
+    "PictureUrl": "images/products/TC-Harpic.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Dove Body Wash",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 50,
+    "PictureUrl": "images/products/BW-Dove.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Rejuvenate Floor Cleaner",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/products/FC-Rejuvenate.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  }
+]

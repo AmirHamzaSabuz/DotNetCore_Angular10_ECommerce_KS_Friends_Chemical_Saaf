@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Liquid Detergent"
+  },
+  {
+    "Id": 2,
+    "Name": "Floor Cleaner"
+  },
+  {
+    "Id": 3,
+    "Name": "Toilet Cleaner"
+  },
+  {
+    "Id": 4,
+    "Name": "Body Wash"
+  }
+]
